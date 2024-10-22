@@ -6,7 +6,7 @@
       "HideIconAfter": 30,
       "IconURL": "",
       "DisableIconText": false,
-      "IconPosition": 2,
+      "IconPosition": 3,
       "IconTextColor": 0,
       "OpenOnStart": true,
       "OpenOnStartOnlyNewPlayers": true,
@@ -23,7 +23,7 @@
         }
       },
       {
-        "tab1": {
+        "tab2": {
           "layout": 1,
           "buttontext": "ПРАВИЛА СЕРВЕРА",
           "title1": "Правила сервера Dragons Ortus",
@@ -32,7 +32,7 @@
         }
       },
       {
-        "tab1": {
+        "tab3": {
           "layout": 1,
           "buttontext": "ПРАВИЛА ТОРГОВЛИ",
           "title1": "Правила торговли на сервере Dragons Servers",
