@@ -3,9 +3,9 @@
         "settings": {
             "OpenButton": 6,
             "HideIcon": true,
-            "HideIconAfter": 120,
-            "IconURL": "",
-            "DisableIconText": false,
+            "HideIconAfter": 300,
+            "IconURL": "https://pic.survivalhost.org/images/2025/12/07/Logo-ORTUS-200x2004555d4d2252d79d7.png",
+            "DisableIconText": true,
             "IconPosition": 2,
             "IconTextColor": 0,
             "OpenOnStart": true,
@@ -75,3 +75,4 @@
         ]
     }
 }
+
