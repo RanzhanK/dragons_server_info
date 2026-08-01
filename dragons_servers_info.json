@@ -5,8 +5,8 @@
          "hideicon":false,
          "hideiconafter":300,
          "iconurl":"https://pic.survivalhost.org/images/2025/12/07/Logo-ORTUS-200x2004555d4d2252d79d7.png",
-         "disableicontext":false,
-         "iconposition":0,
+         "disableicontext":true,
+         "iconposition":2,
          "icontextcolor":0,
          "openonstart":true,
          "openonstartonlynewplayers":true,
@@ -49,34 +49,24 @@
       ],
       "links":[
          {
-            "link1":{
-               "text":"DISCORD",
-               "url":"https://discord.gg/ark-dragons-server"
-            }
+            "text":"DISCORD",
+            "url":"https://discord.gg/ark-dragons-server"
          },
          {
-            "link2":{
-               "text":"ВК",
-               "url":"https://vk.com/dragons_servers"
-            }
+            "text":"ВК",
+            "url":"https://vk.com/dragons_servers"
          },
          {
-            "link3":{
-               "text":"ТЕЛЕГРАММ",
-               "url":"https://t.me/dragons_server"
-            }
+            "text":"ТЕЛЕГРАММ",
+            "url":"https://t.me/dragons_server"
          },
          {
-            "link4":{
-               "text":"YOUTUBE",
-               "url":"https://www.youtube.com/@ranzhan"
-            }
+            "text":"YOUTUBE",
+            "url":"https://www.youtube.com/@ranzhan"
          },
          {
-            "link5":{
-               "text":"МАГАЗИН",
-               "url":"https://dragons-sa.survivalshop.org/"
-            }
+            "text":"МАГАЗИН",
+            "url":"https://dragons-sa.survivalshop.org/"
          }
       ],
       "version":2
